@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&display=swap');
+body{
+    background-color:blue;
+}
+h1{
+    color:aliceblue;
+    font-size:60px;
+    text-align: center;
+}
+p{
+    color:black
+    font-size 40px;
+    text-align: center;
+}
+img{
+    width: 25%;
+    margin-left: 680px;
+}
